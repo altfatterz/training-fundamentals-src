@@ -1,0 +1,3 @@
+rootProject.name = 'training-fundamentals-src'
+
+include ':labs:advanced-topics:consumer'
